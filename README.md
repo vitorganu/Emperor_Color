@@ -41,6 +41,16 @@ Caso tenha dúvidas sobre como baixar e executar o jogo, confira o vídeo tutori
 
 ---
 
+## Avaliação e Feedback
+
+Jovens, Sua opinião é muito importante para o desenvolvimento do **Emperor Color**! Se você jogou, reserve alguns minutos para avaliar sua experiência, compartilhar suas sugestões e nos ajudar a identificar possíveis melhorias.
+
+📝 **[Clique aqui para avaliar o jogo](https://forms.gle/LMmuJ8bHSd89kcTb9)**
+
+Obrigado por jogar Emperor Color e contribuir para a evolução do projeto!
+
+---
+
 ## Créditos
 
 ### 👨‍💻 Vitor Gabriel
